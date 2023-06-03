@@ -44,7 +44,7 @@
         <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
         <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
         <img alt="Vue" src="https://camo.githubusercontent.com/372b662f4b2de885acce0f4619ab56a4ed9259d577cbdac8933b293d6e6f9f3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7675656a732d2532333335343935652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d767565646f746a73266c6f676f436f6c6f723d253233344643303844"/>
-        <img alt="Angular" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+        <img alt="Angular" src="https://img.shields.io/badge/angular-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
         <img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
     </div>
 <h3 align="left">Languages :</h3>
